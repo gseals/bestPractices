@@ -5,3 +5,5 @@
 ### Any time you copy-paste code, you should be looking for a way to simplify or make a variable.
 
 ### use Target in the console to find the id
+
+### to rename a branch in git: https://linuxize.com/post/how-to-rename-local-and-remote-git-branch/
