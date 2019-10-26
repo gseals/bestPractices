@@ -79,7 +79,7 @@
 ## Practice
 
 * [Codewars](https://www.codewars.com/)
-* [JavaSscript 30](https://javascript30.com/) - 30 Day Vanilla JS Coding Challenge
+* [JavaScript 30](https://javascript30.com/) - 30 Day Vanilla JS Coding Challenge
 
 * [Learn JS](https://learnjavascript.online/)
 
@@ -244,3 +244,5 @@ replace 'all' with the id of the item you want to test
 
 * axios returns Promises (more to come on October 28)
 * [axios](https://github.com/axios/axios) github
+
+### October 28, 2019 - Promises and Asynchronous JS
