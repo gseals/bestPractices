@@ -84,6 +84,8 @@ Sections |
 * [edx](https://www.edx.org/) - specifically, CS50's Introduction to Computer Science
 * [r/learnprogramming](https://www.reddit.com/r/learnprogramming/)
 * [coursera: Learning how to learn](https://www.coursera.org/learn/learning-how-to-learn)
+* [Internetting is Hard](https://internetingishard.com/)
+* [HTML Dog](https://www.htmldog.com/)
 
 ## Success Stories
 
