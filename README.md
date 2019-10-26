@@ -1,4 +1,5 @@
 # Best Practice
+###### curated while attending [Nashville Software School](http://nashvillesoftwareschool.com/)
 
 ## Remember
 
