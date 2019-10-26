@@ -8,13 +8,13 @@
 
 ### Sections
 
-[Notes](#Notes) |
+[Notes](#Notes)
 ----
-[Resources](#Resources) |
+[Resources](#Resources)
 ----
-[Languages](#Languages) |
+[Languages](#Languages)
 ----
-[In Class Notes](#Class) |
+[In Class Notes](#Class)
 ----
 
 
