@@ -59,11 +59,13 @@
 ## Apps
 
 * [Grasshopper](https://grasshopper.codes/)
+
 * [Codecademy Go](https://news.codecademy.com/codecademy-go-faq/)
 
 ## Podcasts
 
 * [Syntax](https://syntax.fm/) - language and tips and state-of-development
+
 * [freeCodeCamp](https://podcast.freecodecamp.org/) - more interviews and success stories than language and tips
 
 ## Websites
@@ -78,6 +80,7 @@
 
 * [Codewars](https://www.codewars.com/)
 * [JavaSscript 30](https://javascript30.com/) - 30 Day Vanilla JS Coding Challenge
+
 * [Learn JS](https://learnjavascript.online/)
 
 ## Free tutorials, programs, classes, and videos
@@ -90,6 +93,7 @@
 * [r/learnprogramming](https://www.reddit.com/r/learnprogramming/)
 * [coursera: Learning how to learn](https://www.coursera.org/learn/learning-how-to-learn)
 * [Internetting is Hard](https://internetingishard.com/)
+
 * [HTML Dog](https://www.htmldog.com/)
 
 ## Success Stories
@@ -99,6 +103,7 @@
 * [How I became a web developer in under 7 months – and how you can too](https://www.freecodecamp.org/news/how-i-became-a-web-developer-in-under-7-months-and-how-you-can-too/)
 * [I'm 32 years old, and just started my first full-time job as a developer. One year ago my programming knowledge was basically nil](https://www.reddit.com/r/learnprogramming/comments/34r807/im_32_years_old_and_just_started_my_first/)
 * [I'm married to a walking success story](https://www.reddit.com/r/CasualConversation/comments/aql2k7/im_married_to_a_walking_success_story/)
+
 * [Just turned 34 and I'm interested in trying a career in computer programming. How much of an uphill battle do I face?](https://www.reddit.com/r/learnprogramming/comments/9n1gsb/just_turned_34_and_im_interested_in_trying_a/)
   * [great comment with resources](https://www.reddit.com/r/learnprogramming/comments/9n1gsb/just_turned_34_and_im_interested_in_trying_a/e7j499u/)
   * [great comment with encouragement](https://www.reddit.com/r/learnprogramming/comments/9n1gsb/just_turned_34_and_im_interested_in_trying_a/e7k4w1w/)
@@ -108,50 +113,66 @@
 ### Dev Tools
 
 * [Chrome](https://developers.google.com/web/tools/chrome-devtools/)
+
 * [Teamtreehouse Mastering: The Developer Tools Console](https://blog.teamtreehouse.com/mastering-developer-tools-console)
 
 ### Multiple languages
 
 * [w3schools](https://www.w3schools.com/)
+
 * [MDN web docs](https://developer.mozilla.org/en-US/)
+
 * [Can I Use](https://caniuse.com/)
+
 * [Codecademy](https://discuss.codecademy.com/t/releasing-codecademy-cheat-sheets/440134/3) - cheat sheets
 
 ### Git/GitHub
 
 * [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial/basics)
+
 * [Git Commands](https://github.com/joshnh/Git-Commands)
+
 * [Git Tower's Command Line Cheat Sheet](https://www.git-tower.com/blog/command-line-cheat-sheet/)
+
 * [Resolve fatal error](https://stackoverflow.com/questions/1221840/remote-origin-already-exists-on-git-push-to-a-new-repository)
+
 * [Rename a branch](https://linuxize.com/post/how-to-rename-local-and-remote-git-branch/)
+
 * working with teams in GitHub
 ![working with teams](https://raw.githubusercontent.com/gseals/bestPractices/master/src/images/githubteam2.png)
 
 ### Markdown
 
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ### HTML
 
 * [freeCodeCamp's HTML Handbook](https://www.freecodecamp.org/news/the-html-handbook/)
+
 * [syntax episode: HTML and CSS Fundamentals](https://syntax.fm/show/158/the-fundamentals-html-css)
 
 ### CSS
 
 * [freeCodeCamp's CSS Handbook](https://www.freecodecamp.org/news/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11/)
+
 * [MaintainableCSS](https://maintainablecss.com/)
+
 * [Google Fonts](https://fonts.google.com/)
+
 * [Color Picker](https://www.rapidtables.com/web/color/html-color-codes.html)
 
 ### Flexbox
 
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
 * [Flexbox Froggy](https://flexboxfroggy.com/)
 
 ### Bootstrap
 
 * [Bootstrap](https://getbootstrap.com/)
+
 * [Introduction to Bootstrap](https://www.classcentral.com/course/edx-introduction-to-bootstrap-a-tutorial-3338?utm_source=fcc_medium&utm_medium=web&utm_campaign=cs_programming_september_2019)
 
 ### JavaScript
