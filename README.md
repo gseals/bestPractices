@@ -68,9 +68,19 @@
 
 * [freeCodeCamp](https://podcast.freecodecamp.org/) - more interviews and success stories than language and tips
 
-## Websites
+## Websites/News
 
 * [DEV](https://dev.to/) - "where programmers share ideas and help each other grow"
+
+* [freeCodeCamp](https://www.freecodecamp.org/news/)
+
+* [Hacker Noon](https://hackernoon.com/) - "An Independent Tech Media Site"
+
+* [TechCrunch](https://techcrunch.com/) - per Wikipedia: "business related to tech, technology news, analysis of emerging trends in tech, and profiling of new tech businesses and products"
+
+* [The Verge](https://www.theverge.com/)
+
+* [WIRED](https://www.wired.com/)
 
 ## Youtube channels
 
@@ -162,6 +172,8 @@
 * [Google Fonts](https://fonts.google.com/)
 
 * [Color Picker](https://www.rapidtables.com/web/color/html-color-codes.html)
+
+* [freeCodeCamp's 6 hour CSS course](https://www.freecodecamp.org/news/learn-css-in-this-free-6-hour-video-course/)
 
 ### Flexbox
 
