@@ -9,11 +9,11 @@
 
 ### Sections
 
-[notes](#Notes)
+[overall notes](#Notes)
 ----
-[resources](#Resources)
+[some resources](#Resources)
 ----
-[languages](#Languages-&-systems)
+[languages etc.]()
 ----
 [in class notes](#Class)
 ----
@@ -103,10 +103,7 @@
   * [great comment with resources](https://www.reddit.com/r/learnprogramming/comments/9n1gsb/just_turned_34_and_im_interested_in_trying_a/e7j499u/)
   * [great comment with encouragement](https://www.reddit.com/r/learnprogramming/comments/9n1gsb/just_turned_34_and_im_interested_in_trying_a/e7k4w1w/)
 
-* [is 30 too old to start?](https://www.quora.com/Is-30-really-too-old-to-start-a-career-as-a-developer)
-  * [great comment]()
-
-## Languages & Systems
+## Languages
 
 ### Dev Tools
 
