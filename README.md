@@ -7,15 +7,15 @@
 ![Perspective](https://raw.githubusercontent.com/gseals/bestPractices/master/src/images/motivate.png)
 
 ### Sections
----
-### [Notes](#Notes)
----
-### [Resources](#Resources)
----
-### [Languages](#Languages)
----
-### [In Class Notes](#Class)
----
+
+[Notes](#Notes) |
+----
+[Resources](#Resources) |
+----
+[Languages](#Languages) |
+----
+[In Class Notes](#Class) |
+----
 
 
 ## Notes
