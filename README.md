@@ -9,13 +9,13 @@
 
 ### Sections
 
-[*Notes](#Notes)
+[notes](#Notes)
 ----
-[*Resources](#Resources)
+[resources](#Resources)
 ----
-[*Languages](#Languages)
+[languages](#Languages)
 ----
-[*In Class Notes](#Class)
+[*in class notes](#Class)
 ----
 
 
