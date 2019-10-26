@@ -4,6 +4,8 @@
 
 ### You may not have figured it out, but you will. Don't give up. Just take a break.
 
+![Perspective](https://raw.githubusercontent.com/gseals/bestPractices/master/src/images/motivate.png)
+
 Sections |
 ---
 [Notes](#Notes) |
