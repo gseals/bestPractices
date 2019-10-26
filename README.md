@@ -13,9 +13,9 @@
 ----
 [resources](#Resources)
 ----
-[languages](#Languages)
+[languages](#Languages-&-systems)
 ----
-[*in class notes](#Class)
+[in class notes](#Class)
 ----
 
 
@@ -106,7 +106,7 @@
 * [is 30 too old to start?](https://www.quora.com/Is-30-really-too-old-to-start-a-career-as-a-developer)
   * [great comment]()
 
-## Languages
+## Languages & Systems
 
 ### Dev Tools
 
