@@ -120,6 +120,8 @@ Sections |
 * [Git Tower's Command Line Cheat Sheet](https://www.git-tower.com/blog/command-line-cheat-sheet/)
 * [Resolve fatal error](https://stackoverflow.com/questions/1221840/remote-origin-already-exists-on-git-push-to-a-new-repository)
 * [Rename a branch](https://linuxize.com/post/how-to-rename-local-and-remote-git-branch/)
+* working with teams in GitHub
+![working with teams](https://raw.githubusercontent.com/gseals/bestPractices/master/src/images/githubteam2.png)
 
 ### Markdown
 
