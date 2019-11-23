@@ -200,3 +200,7 @@ replace 'all' with the id of the item you want to test
 ### JSON
 
 * [json lint](https://jsonlint.com/) - a web resource to ensure your JSON is a valid JSON file
+
+### Next.js
+
+* [freeCodeCamp Next.js Handbook](https://www.freecodecamp.org/news/the-next-js-handbook/) - 
