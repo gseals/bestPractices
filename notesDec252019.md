@@ -39,5 +39,27 @@ codecademy:
 
 - { age > 15 && <h1>Taco</h1> } says that when a number over 15 returns, the <h1> will run
 
+- the 'key' attribute is similar to 'id'
+  - A list needs keys if either of the following are true:
 
+  * The list-items have memory from one render to the next. For instance, when a to-do list renders, each item must “remember” whether it was checked off. The items shouldn’t get amnesia when they render.
+
+  * A list’s order might be shuffled. For instance, a list of search results might be shuffled from one render to the next.
+
+  - If neither of these conditions are true, then you don’t have to worry about keys. If you aren’t sure then it never hurts to use them!
+
+- you can use an 'i' in map to create a unique key
+  - const example = tests.map((test, i) =>
+  <li key={'test_' + i}>{test}</li>
+);
+
+- [React](https://reactjs.org/docs/react-api.html#react.createelement) documentation
+
+- you can write React code without JSX. Example:
+  - const h1 = <h1>Hello world</h1>; can be written as:
+  const h1 = React.createElement(
+  "h1",
+  null,
+  "Hello, world"
+);
 
