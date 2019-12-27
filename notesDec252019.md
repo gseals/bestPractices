@@ -13,3 +13,53 @@ codecademy:
 - a JSX expression must have exactly one outermost element: the first opening tag and the final closing tag of a JSX expression must belong to the same JSX element
 
 - [The Virtual DOM](https://www.codecademy.com/articles/react-virtual-dom) and why React is faster
+
+December 26
+codecademy:
+
+- in JSX, for tags that are self-closing, such as <br /> and <img />, you must include the closing slash to signify the tag is closed
+
+- writing JS in JSX requires curly brackets:
+  - <h1>2 + 3</h1> yields 2 + 3
+  - <h1>{2 + 3}</h1> yields 5
+
+- accessing variables within JSX also uses curly brackets.
+
+- an event listener's name should be something like onClick or onMouseOver
+
+- an event's value should be a function
+
+- valid [events](https://reactjs.org/docs/events.html#supported-events) in JSX
+
+- if statements do not work when injected into JSX
+
+- [JSX in depth](https://reactjs.org/docs/jsx-in-depth.html)
+
+- [ternary in JS](https://stackoverflow.com/questions/6259982/how-do-you-use-the-conditional-operator-in-javascript)
+
+- { age > 15 && <h1>Taco</h1> } says that when a number over 15 returns, the <h1> will run
+
+- the 'key' attribute is similar to 'id'
+  - A list needs keys if either of the following are true:
+
+  * The list-items have memory from one render to the next. For instance, when a to-do list renders, each item must “remember” whether it was checked off. The items shouldn’t get amnesia when they render.
+
+  * A list’s order might be shuffled. For instance, a list of search results might be shuffled from one render to the next.
+
+  - If neither of these conditions are true, then you don’t have to worry about keys. If you aren’t sure then it never hurts to use them!
+
+- you can use an 'i' in map to create a unique key
+  - const example = tests.map((test, i) =>
+  <li key={'test_' + i}>{test}</li>
+);
+
+- [React](https://reactjs.org/docs/react-api.html#react.createelement) documentation
+
+- you can write React code without JSX. Example:
+  - const h1 = <h1>Hello world</h1>; can be written as:
+  const h1 = React.createElement(
+  "h1",
+  null,
+  "Hello, world"
+);
+
