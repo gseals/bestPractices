@@ -81,3 +81,11 @@ codecademy
   is a class
   <MyComponent />
   is a component
+
+  Dec 28, 2019
+  codecademy
+
+- multi-line JSX expressions should always be wrapped in parenthese
+
+- 
+
