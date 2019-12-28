@@ -1,4 +1,4 @@
-December 25
+December 25, 2019
 codecademy:
 
 - if a JSX expression takes up more than one line, then you must wrap the multi-line JSX expression in parentheses
@@ -14,7 +14,7 @@ codecademy:
 
 - [The Virtual DOM](https://www.codecademy.com/articles/react-virtual-dom) and why React is faster
 
-December 26
+December 26, 2019
 codecademy:
 
 - in JSX, for tags that are self-closing, such as <br /> and <img />, you must include the closing slash to signify the tag is closed
@@ -63,3 +63,21 @@ codecademy:
   "Hello, world"
 );
 
+December 27, 2019
+codecademy
+
+- React Components: a component is a reusable piece of code whose job, generally, is to render HTML
+
+- the import React from 'react' line creates a new variable whose name is React and value is a specific imported JavaScript object that contains methods required to run React. The object is the React library
+
+- every component must come from a component class. a component class is like a factory that creates components.
+
+- the body comes within the curly braces that follow the opening curly braces; The body will act as a set of instructions, explaining to your component class how it should build a React component.
+
+- There is only one property that you have to include in your instructions: a render method
+  - a render method must contain a return statement. generally, the return statement returns a JSX expression
+
+- class MyComponent extends React.Component
+  is a class
+  <MyComponent />
+  is a component
