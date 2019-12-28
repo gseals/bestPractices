@@ -87,5 +87,21 @@ codecademy
 
 - multi-line JSX expressions should always be wrapped in parenthese
 
-- 
+- use curly braces to inject JavaScript into JSX. ex:
 
+  const animal = {
+    img: theImage,
+    name: theName
+  };
+
+  to access these items in JSX, reference the object: {animal.img}, {animal.name}
+
+- render must have a return statement; it can also house other items, like mathematical calculations that need to resolve before the component renders
+
+- conditionals within component class occur inside of render, but before return
+
+- this referes to an instance within the React class
+
+- [understand this in JavaScript](https://dmitripavlutin.com/gentle-explanation-of-this-in-javascript/)
+
+- event listeners: in React, event handlers are defined as methods on a component class
