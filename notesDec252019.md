@@ -109,5 +109,21 @@ codecademy
 December 28, cont.
 
 - component instances: essentially, nesting one component as the return within another component
+  - importing/exporting is necessary for this interaction
+
+- [nestComponentImage]()
+
+* Props:
+  - information that gets passed from one component to another
+
+- every component has something called props; props are an object; you can view a component's props by console logging them
+
+- the most common use of props is to pass information to one component from a different component
+
+- props is the name of the object that stores passed-in information
+  - this.props refers to that storage object
+  - each piece of passed-in information is called a prop
+
+- naming convention: think about what type of event you are listening for. if you are listening for a click event, then you name your event handler handleClick. if you are listening for a keyPress event, name your event handler handleKeyPress
 
 - 
