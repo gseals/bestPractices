@@ -3,11 +3,11 @@ codecademy:
 
 - if a JSX expression takes up more than one line, then you must wrap the multi-line JSX expression in parentheses
   - ex: const example = (
-    <a href="url">
-      <h1>
-        Click here
-      </h1>
-    </a>
+*    <a href="url">
+*      <h1>
+*        Click here
+*      </h1>
+*    </a>
   );
 
 - a JSX expression must have exactly one outermost element: the first opening tag and the final closing tag of a JSX expression must belong to the same JSX element
@@ -105,3 +105,26 @@ codecademy
 - [understand this in JavaScript](https://dmitripavlutin.com/gentle-explanation-of-this-in-javascript/)
 
 - event listeners: in React, event handlers are defined as methods on a component class
+
+December 28, cont.
+
+- component instances: essentially, nesting one component as the return within another component
+  - importing/exporting is necessary for this interaction
+
+- [nestComponentImage]()
+
+* Props:
+  - information that gets passed from one component to another
+
+- every component has something called props; props are an object; you can view a component's props by console logging them
+
+- the most common use of props is to pass information to one component from a different component
+
+- props is the name of the object that stores passed-in information
+  - this.props refers to that storage object
+  - each piece of passed-in information is called a prop
+
+- naming convention: think about what type of event you are listening for. if you are listening for a click event, then you name your event handler handleClick. if you are listening for a keyPress event, name your event handler handleKeyPress
+
+- HTML event handler words like onClick have special meaning when dealing with HTML elements; when dealing with JSX, onClick does not have a special meaning, it is only used as a prop.
+  -names like onClick only create event listeners if they're used on HTML-like JSX elements.
