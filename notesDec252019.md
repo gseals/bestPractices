@@ -128,3 +128,10 @@ December 28, cont.
 
 - HTML event handler words like onClick have special meaning when dealing with HTML elements; when dealing with JSX, onClick does not have a special meaning, it is only used as a prop.
   -names like onClick only create event listeners if they're used on HTML-like JSX elements.
+
+  * State:
+
+  - unlike props, a component's state is not passed from the outside. a component decides its own state
+
+  - a component changes its state by calling the function this.setState()
+    - this.setState() takes two arguments: an object the will update the component's state, and a callback. you basically never need the callback
