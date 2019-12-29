@@ -126,4 +126,5 @@ December 28, cont.
 
 - naming convention: think about what type of event you are listening for. if you are listening for a click event, then you name your event handler handleClick. if you are listening for a keyPress event, name your event handler handleKeyPress
 
-- 
+- HTML event handler words like onClick have special meaning when dealing with HTML elements; when dealing with JSX, onClick does not have a special meaning, it is only used as a prop.
+  -names like onClick only create event listeners if they're used on HTML-like JSX elements.
