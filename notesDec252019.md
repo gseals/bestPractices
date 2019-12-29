@@ -135,3 +135,13 @@ December 28, cont.
 
   - a component changes its state by calling the function this.setState()
     - this.setState() takes two arguments: an object the will update the component's state, and a callback. you basically never need the callback
+
+Dec 29, 2019
+
+- you can't call this.setState inside of the render function
+
+- Any time that you call this.setState(), this.setState() AUTOMATICALLY calls .render() as soon as the state has changed.
+
+* Learn ReactJS Part 2:
+
+- 
