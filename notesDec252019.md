@@ -111,7 +111,7 @@ December 28, cont.
 - component instances: essentially, nesting one component as the return within another component
   - importing/exporting is necessary for this interaction
 
-- [nestComponentImage](https://raw.githubusercontent.com/gseals/bestPractices/master/src/images/nestComponent.png)
+- ![nestComponentImage](https://raw.githubusercontent.com/gseals/bestPractices/master/src/images/nestComponent.png)
 
 * Props:
   - information that gets passed from one component to another
@@ -150,4 +150,4 @@ Dec 29, 2019
 
 - Rendering is the only way for a component to pass props to another component.
 
-- [props and state photo](https://raw.githubusercontent.com/gseals/bestPractices/master/src/images/propsAndState.png)
+- ![props and state photo](https://raw.githubusercontent.com/gseals/bestPractices/master/src/images/propsAndState.png)
