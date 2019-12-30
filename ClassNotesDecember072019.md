@@ -34,8 +34,7 @@ CANNOT use the word class in jsx because it is a reserved word; must use classNa
 
 git rm package-lock.json --cache then git status
 
-
-* Begin here:
+# **Begin here**:
 
 in your terminal: npx create-react-app intro-react
 
