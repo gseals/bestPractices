@@ -142,6 +142,12 @@ Dec 29, 2019
 
 - Any time that you call this.setState(), this.setState() AUTOMATICALLY calls .render() as soon as the state has changed.
 
+- [handling events with React](https://reactjs.org/docs/handling-events.html)
+
 * Learn ReactJS Part 2:
 
-- 
+- stateful describes any component that has a state property; stateless describes any component that does not
+
+- Rendering is the only way for a component to pass props to another component.
+
+- [props and state photo]()
