@@ -98,6 +98,3 @@ top of index.scss:
 @import '~bootstrap/dist/css/bootstrap.min.css';
 
 npm install prop-types --save
-
-for routing:
-npm install react-router-dom --save
