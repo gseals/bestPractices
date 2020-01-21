@@ -103,3 +103,22 @@ react routing
 npm install react-router-dom --save
 
 delete the logo from App and from App.js
+
+App.js should look like this:
+
+```
+import React from 'react';
+import './App.scss';
+
+class App extends React.Component {
+  render() {
+    return (
+    <div className="App">
+      <button className="btn btn-danger">This that test</button>
+    </div>
+    );
+  }
+}
+
+export default App;
+```
