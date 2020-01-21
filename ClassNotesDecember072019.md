@@ -101,3 +101,5 @@ npm install prop-types --save
 
 react routing
 npm install react-router-dom --save
+
+delete the logo from App and from App.js
