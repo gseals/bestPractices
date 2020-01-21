@@ -75,7 +75,7 @@ change index.css to .scss
 install lintr:
 npm install eslint-config-airbnb-base --save-dev
 
-create .eslintrc and copy things from [instructions](https://github.com/nss-nightclass-projects/Night-Class-Resources/blob/react/book-4-react/chapters/react-setup.md#add-eslint) to be linted into it
+create .eslintrc file in src and copy things from [instructions](https://github.com/nss-nightclass-projects/Night-Class-Resources/blob/react/book-4-react/chapters/react-setup.md#add-eslint) to be linted into it
 
 index.scss: add .App background color line
 add _variables.scss file in styles, add a color variable, import into index.scss
