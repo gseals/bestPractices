@@ -36,11 +36,13 @@ git rm package-lock.json --cache then git status
 
 # **Begin here**:
 
-in your terminal: npx create-react-app intro-react
+be sure you are in the folder you want this directory to live
+in your terminal: npx create-react-app 'name of your directory'
+example: if the name of your directory is 'starting', then npx create-react-app starting
 
-create github repo but do not initiliaze with a readme
+in github, create repo of the same name but do not initiliaze with a readme
 
-terminal: cd into directory
+terminal: cd into directory you just made
 
 *copy github line into terminal (the 'git remote add origin' line)
 
@@ -48,13 +50,13 @@ terminal: git rm package-lock.json --cache
 
 *open code in vscode and gitignore package-lock.json
 
-git add
+git add .
 
 git commit
 
 git push -u origin master
 
-git checkout -b gs-setup
+git checkout -b 'setup branch'
 
 
 
@@ -66,11 +68,11 @@ create new folders: App and styles in src
 
 move app.js and app.css and logo.svg into App folder
 
-change app.css into app.scss
+update app.css to app.scss
 
-index.css goes into styles
+index.css goes to styles
 
-change index.css to .scss
+update index.css to index.scss
 
 install lintr:
 npm install eslint-config-airbnb-base --save-dev
@@ -78,7 +80,8 @@ npm install eslint-config-airbnb-base --save-dev
 create .eslintrc and copy things from [instructions](https://github.com/nss-nightclass-projects/Night-Class-Resources/blob/react/book-4-react/chapters/react-setup.md#add-eslint) to be linted into it
 
 index.scss: add .App background color line
-add _variables.scss file in styles, add a color variable, import into index.scss
+
+in styles, create _variables.scss, add a color variable, import into index.scss
 
 install node sass
 npm install node-sass --save
