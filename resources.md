@@ -157,6 +157,8 @@
 
 * [freeCodeCamp's 6 hour CSS course](https://www.freecodecamp.org/news/learn-css-in-this-free-6-hour-video-course/)
 
+* [CSS Grid](https://cssgrid.io/)
+
 ### Flexbox
 
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
@@ -178,6 +180,10 @@
 * [syntax episode: 20 JavaScript Array and Object Methods to make you a better developer](https://syntax.fm/show/043/20-javascript-array-and-object-methods-to-make-you-a-better-developer)
 * [Thinkful's JS Best Practices Part 1](https://www.thinkful.com/learn/javascript-best-practices-1/)
 * [Thinkful's JS Best Practices Part 2](https://www.thinkful.com/learn/javascript-best-practices-2/)
+* [You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS)
+* [The Promise JS Explained in Burger Party](https://fullstackjournal.wordpress.com/2018/07/06/the-promise-js-explained-i-burger-party/)
+* [Deep Dive Into Modern Web Development](https://fullstackopen.com/en)
+
 
 * event listener tester in console:
 
@@ -204,3 +210,13 @@ replace 'all' with the id of the item you want to test
 ### Next.js
 
 * [freeCodeCamp Next.js Handbook](https://www.freecodecamp.org/news/the-next-js-handbook/) - 
+
+### React
+
+* [React Guide](https://reactjs.org/docs/hello-world.html)
+* [Reach Cheat Sheet](https://dev.to/codeartistryio/the-react-cheatsheet-for-2020-real-world-examples-4hgg)
+* [Lifecycle Methods](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
+
+### React Router
+
+* [React Router Training](https://reacttraining.com/react-router/web/guides/quick-start)
