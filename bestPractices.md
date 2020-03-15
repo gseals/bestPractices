@@ -38,7 +38,7 @@
 
 * when running modules without webpack, always remember the type="module" in the script tag at the bottom of the HTML to enable the import/export
 
-* e.preventDefault() in every click function
+* e.preventDefault() in every click function - each action has a default response. For example, a form's default behavior is to reload the page once the "Enter" key is pressed. Placing e.preventDefault() within your function halts the default behavior.
 
 * $(e.target) is our magic bullet
 
@@ -51,3 +51,11 @@
 * with ES6 modules, type="module" must be present
 
 * technical debt: you want to find the fastest solution to deployment; determine when is best for you to build a bigger project
+
+* everything is an object in JS
+
+* when you face a new task, situation, or assignment, write down your instructions. Oftentimes, the things you write down can be used as the comments within your code
+
+* Comment regularly to clarify the function of your code. Good commenting communicates the intent of your code - both for others and for your future self.
+
+* JS variables are written in camelCase
