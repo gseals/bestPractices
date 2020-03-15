@@ -37,3 +37,17 @@
 * always increment the loop; otherwise, you will create an infinite loop
 
 * when running modules without webpack, always remember the type="module" in the script tag at the bottom of the HTML to enable the import/export
+
+* e.preventDefault() in every click function
+
+* $(e.target) is our magic bullet
+
+* apply click event to body
+
+* init function is an organizational piece that gathers everything that needs to run on page load
+
+* with an input and label, id & for have to match
+
+* with ES6 modules, type="module" must be present
+
+* technical debt: you want to find the fastest solution to deployment; determine when is best for you to build a bigger project
