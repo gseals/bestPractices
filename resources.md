@@ -75,6 +75,10 @@
 
 * [Learn JS](https://learnjavascript.online/)
 
+## Events
+
+* [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
+
 ## Free tutorials, programs, classes, and videos
 
 * [The Odin Project](https://www.theodinproject.com/)
@@ -165,6 +169,8 @@
 
 * [Flexbox Froggy](https://flexboxfroggy.com/)
 
+* [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies)
+
 ### Bootstrap
 
 * [Bootstrap](https://getbootstrap.com/)
@@ -183,7 +189,7 @@
 * [You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS)
 * [The Promise JS Explained in Burger Party](https://fullstackjournal.wordpress.com/2018/07/06/the-promise-js-explained-i-burger-party/)
 * [Deep Dive Into Modern Web Development](https://fullstackopen.com/en)
-
+* [WarriorJS](https://warriorjs.com/)
 
 * event listener tester in console:
 
