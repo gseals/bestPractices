@@ -13,6 +13,8 @@
 ----
 [languages etc.](#Languages)
 ----
+[interview prep](#Interview)
+----
 
 # Resources
 
@@ -195,6 +197,9 @@
 * [Deep Dive Into Modern Web Development](https://fullstackopen.com/en)
 * [WarriorJS](https://warriorjs.com/)
 
+* [One line of code](https://1loc.dev/)
+* [10 Practical JavaScript Tricks](https://dev.to/zandershirley/10-practical-javascript-tricks-2b7h)
+
 * event listener tester in console:
 
 ```javascript
@@ -230,3 +235,15 @@ replace 'all' with the id of the item you want to test
 ### React Router
 
 * [React Router Training](https://reacttraining.com/react-router/web/guides/quick-start)
+
+## Interview
+
+* [Pramp](https://www.pramp.com/#/)
+* [Leet Code](https://leetcode.com/)
+* [HackerRank](https://www.hackerrank.com/)
+* [Code Signal](https://codesignal.com/)
+* [Firecode.io](https://www.firecode.io/)
+* [Tests4Geeks](https://tests4geeks.com/)
+* [CodeKata](http://codekata.com/)
+* [Language Quizzes](https://www.w3schools.com/quiztest/default.asp)
+
