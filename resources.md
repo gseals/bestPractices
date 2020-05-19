@@ -116,6 +116,8 @@
 
 ### Multiple languages
 
+* [scrimba](https://scrimba.com/)
+
 * [w3schools](https://www.w3schools.com/)
 
 * [MDN web docs](https://developer.mozilla.org/en-US/)
@@ -151,7 +153,7 @@
 
 * [syntax episode: HTML and CSS Fundamentals](https://syntax.fm/show/158/the-fundamentals-html-css)
 
-### CSS
+### CSS/Styling
 
 * [freeCodeCamp's CSS Handbook](https://www.freecodecamp.org/news/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11/)
 
@@ -164,6 +166,8 @@
 * [freeCodeCamp's 6 hour CSS course](https://www.freecodecamp.org/news/learn-css-in-this-free-6-hour-video-course/)
 
 * [CSS Grid](https://cssgrid.io/)
+
+* [Tachyons](https://tachyons.io/)
 
 ### Flexbox
 
