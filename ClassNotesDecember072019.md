@@ -62,40 +62,64 @@ git checkout -b 'setup branch'
 
 delete app.test.js and setuptest
 
+delete the logo.svg from the project and from App.js
+
 delete test line from package.json
 
 create new folders: App and styles in src
 
-move app.js and app.css and logo.svg into App folder
+move App.js and App.css into App folder
+
+In App.js, update App.css import statement
 
 update app.css to app.scss
 
-index.css goes to styles
+move index.css into styles folder
 
 update index.css to index.scss
+
+In index.js: change the import path for index.css and App
 
 install lintr:
 npm install eslint-config-airbnb-base --save-dev
 
-create .eslintrc file in src and copy things from [instructions](https://github.com/nss-nightclass-projects/Night-Class-Resources/blob/react/book-4-react/chapters/react-setup.md#add-eslint) to be linted into it
+create .eslintrc file in src and copy things from [instructions](https://github.com/nss-nightclass-projects/Night-Class-Resources/blob/react/book-4-react/chapters/react-setup.md#add-eslint). These items are noted below:
 
-index.scss: add .App background color line
+```
+{
+  "parserOptions": {
+    "ecmaVersion": 9,
+    "sourceType": "module"
+  },
+  "extends": ["airbnb-base", "react-app"],
+  "globals": {
+    "document": true,
+    "window": true,
+    "$": true,
+    "XMLHttpRequest": true,
+    "allowTemplateLiterals": true
+  },
+  "rules": {
+    "no-console": [1, { "allow": ["error"] }],
+    "no-debugger": 1,
+    "class-methods-use-this": 0,
+    "linebreak-style": 0,
+    "max-len": [1,200,2]
+  }
+}
+```
+
+index.scss: add .App background color
 
 in styles, create _variables.scss, add a color variable, import into index.scss
 
-install node sass
+install node sass (your scss will not work without this)
 npm install node-sass --save
-
-index.js : change the import path for index.css and App
 
 App.scss remove background-color
 
 install bootstrap/firebase/axios
 npm install axios bootstrap firebase jquery popper.js --save
-
-put your test button App.js
-
-App.js correct App.css import statement
 
 top of index.scss:
 @import '~bootstrap/dist/css/bootstrap.min.css';
@@ -105,7 +129,7 @@ npm install prop-types --save
 react routing
 npm install react-router-dom --save
 
-delete the logo from App and from App.js
+Place a test button inside App.js
 
 App.js should look like this:
 
@@ -117,7 +141,7 @@ class App extends React.Component {
   render() {
     return (
     <div className="App">
-      <button className="btn btn-danger">This that test</button>
+      <button className="btn btn-danger">This that test button</button>
     </div>
     );
   }
@@ -125,3 +149,5 @@ class App extends React.Component {
 
 export default App;
 ```
+
+If you want to use reactstrap, follow directions found [here](https://reactstrap.github.io/)

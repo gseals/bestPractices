@@ -2,6 +2,6 @@
 
 * spread operator { ...cow };
 
-* resolve returns the succss, reject returns the failure
+* resolve returns the success, reject returns the failure
 
 * never expose keys or api keys to github; put them in gitignore
