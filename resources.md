@@ -50,6 +50,8 @@
 
 * [Base.cs](https://www.codenewbie.org/basecs) - "Beginner-friendly computer science lessons based on Vaidehi Joshi's base.cs blog series, produced by CodeNewbie."
 
+* [Software Engineering Daily](https://softwareengineeringdaily.com/category/all-episodes/exclusive-content/Podcast/) - "Technical interviews about software topics."
+
 ## Websites/News
 
 * [DEV](https://dev.to/) - "where programmers share ideas and help each other grow"
@@ -65,6 +67,13 @@
 * [WIRED](https://www.wired.com/)
 
 * [hackaday](https://hackaday.com/) - per Wikipedia: "a blog which publishes several articles each day about hardware and software hacks"
+
+* [Software Engineering Daily](https://softwareengineeringdaily.com/)
+
+* [Hacker News](https://news.ycombinator.com/)
+
+* [Peoduct Hunt](https://www.producthunt.com/) "Product Hunt surfaces the best new products, every day. It's a place for product-loving enthusiasts to share and geek out about the latest mobile apps, websites, hardware projects, and tech creations."
+
 
 ## Youtube channels
 
@@ -91,7 +100,6 @@
 * [r/learnprogramming](https://www.reddit.com/r/learnprogramming/)
 * [coursera: Learning how to learn](https://www.coursera.org/learn/learning-how-to-learn)
 * [Internetting is Hard](https://internetingishard.com/)
-
 * [HTML Dog](https://www.htmldog.com/)
 
 ## Success Stories
