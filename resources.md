@@ -248,6 +248,11 @@ replace 'all' with the id of the item you want to test
 
 * [React Router Training](https://reacttraining.com/react-router/web/guides/quick-start)
 
+### SQL
+
+* [SQLpd](https://sqlpd.com/)
+* [Select Star SQL](https://selectstarsql.com/)
+
 ## Interview
 
 * [Pramp](https://www.pramp.com/#/)
