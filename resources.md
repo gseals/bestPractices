@@ -17,6 +17,8 @@
 ----
 [incorporate into projects](#Items)
 ----
+[methodology](#Methodologies)
+----
 
 # Resources
 
@@ -271,3 +273,8 @@ replace 'all' with the id of the item you want to test
 
 * [Creating a Gauge in React](https://wattenberger.com/blog/gauge)
 * [Make a Reading Progress Bar](https://dev.to/robole/pimp-your-blog-by-adding-a-reading-progress-bar-573i)
+
+## Methodologies
+
+* [What is Agile](https://www.freecodecamp.org/news/what-is-agile-and-how-youcan-become-an-epic-storyteller/)
+
