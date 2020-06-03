@@ -15,6 +15,8 @@
 ----
 [interview prep](#Interview)
 ----
+[incorporate into projects](#Items)
+----
 
 # Resources
 
@@ -243,6 +245,7 @@ replace 'all' with the id of the item you want to test
 * [React Guide](https://reactjs.org/docs/hello-world.html)
 * [Reach Cheat Sheet](https://dev.to/codeartistryio/the-react-cheatsheet-for-2020-real-world-examples-4hgg)
 * [Lifecycle Methods](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
+* [15 React Best Practices You Need to Follow in 2020](https://www.codeinwp.com/blog/react-best-practices/)
 
 ### React Router
 
@@ -264,3 +267,7 @@ replace 'all' with the id of the item you want to test
 * [CodeKata](http://codekata.com/)
 * [Language Quizzes](https://www.w3schools.com/quiztest/default.asp)
 
+## Items
+
+* [Creating a Gauge in React](https://wattenberger.com/blog/gauge)
+* [Make a Reading Progress Bar](https://dev.to/robole/pimp-your-blog-by-adding-a-reading-progress-bar-573i)
