@@ -269,7 +269,7 @@ replace 'all' with the id of the item you want to test
 * [CodeKata](http://codekata.com/)
 * [Language Quizzes](https://www.w3schools.com/quiztest/default.asp)
 
-* [Some things to keep in mind during an interview]()
+* [Some things to keep in mind during an interview](https://raw.githubusercontent.com/gseals/bestPractices/master/src/images/interviewTips.jpg)
 * [How to make people like you in 90 seconds or less](https://lifelessons.co/personal-development/90seconds/)
 
 ## Items
