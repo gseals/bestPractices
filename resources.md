@@ -269,6 +269,9 @@ replace 'all' with the id of the item you want to test
 * [CodeKata](http://codekata.com/)
 * [Language Quizzes](https://www.w3schools.com/quiztest/default.asp)
 
+* [Some things to keep in mind during an interview]()
+* [How to make people like you in 90 seconds or less](https://lifelessons.co/personal-development/90seconds/)
+
 ## Items
 
 * [Creating a Gauge in React](https://wattenberger.com/blog/gauge)
