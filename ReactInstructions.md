@@ -1,39 +1,3 @@
-React begins
-invented by FB in 2013
-most jobs in Nashville are React or Angular
-
-react acts in the way that you are building out components that you can reuse (like the card we've built); we are doing a lot less writing of UI components and 
-breaking down the application into small bits and injecting into other projects/locations
-
-jsx is writing html in JS
-
-all of the create react app happens on master; the setup branch will be for what Zoe wants us to change and do
-
-do not initialize with a readme in github
-
-react process:
-npx create-react-app intro-react
-
-
-git remote -v to see the connections to github
-
-delete app.test.js
-create folder called App and move 2 apps and logo
-change import statements in index.js
-package.json remove test from scripts
-* create folder called Styles and move index.css into the folder
-* rename index.css to index.scss
-* index.js and change imports
-* delete setuptest.js
-* rename app.css to app.scss
-* install node-sass
-
-npm install eslint-config-airbnb-base --save
-
-CANNOT use the word class in jsx because it is a reserved word; must use className
-
-git rm package-lock.json --cache then git status
-
 # **Begin here**:
 
 be sure you are in the folder you want this directory to live
