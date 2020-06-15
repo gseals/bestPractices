@@ -83,6 +83,11 @@
 
 * [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
 
+* [Programming with Mosh](https://www.youtube.com/user/programmingwithmosh)
+
+* [Colt Steele](https://www.youtube.com/channel/UCrqAGUPPMOdo0jfQ6grikZw/featured)
+* [Colt's Free Code Camp](https://www.youtube.com/playlist?list=PLblA84xge2_xNtaFnZhefjFbnDrpySKD3)
+
 ## Practice
 
 * [Codewars](https://www.codewars.com/)
@@ -248,6 +253,8 @@ replace 'all' with the id of the item you want to test
 * [Reach Cheat Sheet](https://dev.to/codeartistryio/the-react-cheatsheet-for-2020-real-world-examples-4hgg)
 * [Lifecycle Methods](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
 * [15 React Best Practices You Need to Follow in 2020](https://www.codeinwp.com/blog/react-best-practices/)
+* [React Mental Models Part 1](https://obedparla.com/code/a-visual-guide-to-react-mental-models/)
+* [React Mental Models Part 2](https://obedparla.com/code/a-visual-guide-to-react-mental-models-part-2-use-state-use-effect-and-lifecycles/)
 
 ### React Router
 
@@ -272,6 +279,10 @@ replace 'all' with the id of the item you want to test
 * [Some things to keep in mind during an interview](https://raw.githubusercontent.com/gseals/bestPractices/master/src/images/interviewTips.jpg)
 * [How to make people like you in 90 seconds or less](https://lifelessons.co/personal-development/90seconds/)
 
+* Stump Recruiter Questions
+![stump recruiter questions](https://raw.githubusercontent.com/gseals/bestPractices/master/src/images/questions.jpg)
+src: https://www.linkedin.com/in/taylordesseyn/
+
 ## Items
 
 * [Creating a Gauge in React](https://wattenberger.com/blog/gauge)
@@ -280,4 +291,4 @@ replace 'all' with the id of the item you want to test
 ## Development
 
 * [What is Agile](https://www.freecodecamp.org/news/what-is-agile-and-how-youcan-become-an-epic-storyteller/)
-
+* [SCRUM Guide](https://www.scrumguides.org/scrum-guide.html)
